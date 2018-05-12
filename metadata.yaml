@@ -1,0 +1,28 @@
+_repo: Shakspere-Personal-Recollections_20487
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Joyce, John A. (John Alexander)
+    alias: Joyce, John Alexander
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '9330'
+    url: http://www.gutenberg.org/2009/agents/9330
+description: ''
+gutenberg_issued: '2007-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20487'
+  lccn: 04006899
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Fiction'
+- !lcc 'PR'
+title: Shakspere, Personal Recollections
+url: http://www.gutenberg.org/ebooks/20487
